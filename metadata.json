@@ -1,0 +1,5 @@
+{
+  "name": "QR Code File Converter",
+  "description": "A professional, lightweight application to convert images (JPG, PNG, WEBP) and PDFs into shareable QR codes. Files are uploaded to cloud storage, and a QR code is generated from the public URL. No database is used.",
+  "requestFramePermissions": []
+}
